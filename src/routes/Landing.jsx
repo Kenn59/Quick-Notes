@@ -4,7 +4,7 @@ import { Notebook, CheckCircle, Zap, Lock } from 'lucide-react'
 
 function Landing (){
     return(
-        <div className='min-h-screen bg-gradient-to-b from-inigo-50 to-white'>
+        <div className='min-h-screen bg-gradient-to-b from-indigo-50 to-white'>
             <div className='container mx-auto px-4 py-16'>
                 <div className='text-center mb-16'>
                     <div className='flex justify-center mb-6'>
